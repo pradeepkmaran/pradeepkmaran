@@ -1,4 +1,4 @@
-# PRADEEP K M
+# Pradeep K M
 
 Developer focused on high-performance systems, backend architecture, and distributed intelligence. Currently a Project Trainee at Zoho, building security automation and data intelligence tools.
 
