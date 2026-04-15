@@ -1,87 +1,59 @@
-# 👋 Hi, I'm Pradeep KM
+# PRADEEP KM
 
-💻 Developer focused on **systems, backend, and AI**
-🚀 Building databases, developer tools, and real-world applications
-
----
-
-## 🧑‍💻 About Me
-
-* 🔭 Working on: **Databases, LSM trees, and backend systems**
-* 🧠 Exploring: **Distributed systems, performance engineering**
-* ⚡ Strong in: **C++, JavaScript, Python**
-* 🏫 Based in: Chennai
-* 🌐 LinkedIn: https://linkedin.com/in/pradeepkmaran
+Software Engineer focused on Systems, Backend Architecture, and Distributed Intelligence. 
 
 ---
 
-## 🚀 What I Build
+### CORE SPECIFICATIONS
 
-### ⚙️ Systems & Databases
-
-* **kvick-db / kvick-db-lsm** → Custom database implementations (LSM-based)
-* **MySillyQL** → Experimental query engine
-* **github-as-a-db** → Treating GitHub as a database
-
-### 🤖 AI & ML
-
-* **research-paper-classifier**
-* **ImageCLEF2024**
-* **fake-news-detector (OneHot / GloVe)**
-
-### 🌐 Full Stack & Apps
-
-* **youtube-caption-api** → Extract captions as JSON
-* **visual-voice** → Translate & listen to YouTube videos
-* **video-conference** → Real-time communication app
-* **notes-app-mern / url-shortener / job-track**
-
-### 🧰 Developer Tools
-
-* **ohno-cli** → Run Linux commands using natural language
-* **cf-editor** → Codeforces editor extension
-* **react-node-docker-template**
+- Architecture: Systems Programming, Database Internals, Distributed Storage
+- Logic: C++, JavaScript, Python, Go
+- Environment: Linux, Docker, gRPC, Node.js
 
 ---
 
-## 📊 GitHub Stats
+### PERSISTENCE & DATABASES
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepkmaran\&show_icons=true\&theme=tokyonight)
+**KVICK-DB / KVICK-DB-LSM**
+Implementation of high-performance Log-Structured Merge (LSM) trees for massive key-value datasets. Focus on disk I/O optimization and write-ahead logging.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkmaran\&layout=compact\&theme=tokyonight)
+**MYSILLYQL**
+An experimental SQL query engine built to explore parsing, optimization, and execution plan generation from first principles.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pradeepkmaran\&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeepkmaran\&theme=tokyo-night)
+**GITHUB-AS-A-DB**
+A framework for treating GitHub repositories as a version-controlled, highly available object store for application data.
 
 ---
 
-## 🧠 Interests
+### INTELLIGENCE & CLASSIFICATION
 
-* Database internals (LSM Trees, storage engines)
-* Backend architecture & APIs
-* Developer tooling
-* AI-powered applications
-
----
-
-## 🏆 Highlights
-
-* 🦈 Pull Shark • ⚡ Quickdraw • 🎯 YOLO achievements
-* 🧑‍💻 Active across **50+ repositories**
-* 🏢 Member of **SSN IEEE SPS Student Branch**
+- **Research Paper Classifier**: Automated categorization of academic literature using NLP.
+- **ImageCLEF2024**: Visual recognition and medical image analysis.
+- **Fake News Detector**: Deep learning approach to misinformation detection using OneHot and GloVe embeddings.
 
 ---
 
-## ⚡ Fun Fact
+### TOOLING & INFRASTRUCTURE
 
-> I like building things from scratch — especially databases and dev tools.
+- **OHNO-CLI**: Natural language processor for Linux terminal operations.
+- **Visual Voice**: Real-time translation and audio processing for YouTube content.
+- **CF-Editor**: Specialized code editor extension for competitive programming.
+- **Video Conference**: Low-latency RTC platform for high-bandwidth communication.
 
 ---
 
-⭐️ From [pradeepkmaran](https://github.com/pradeepkmaran)
+### SYSTEM STATISTICS
 
+![Stats](https://github-readme-stats.vercel.app/api?username=pradeepkmaran&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333&icon_color=000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkmaran&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=pradeepkmaran&theme=flat&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true)
+
+---
+
+### NOTES
+
+Based in Chennai. Active across 50+ repositories. Focused on building high-performance systems from the ground up.
+
+[GitHub](https://github.com/pradeepkmaran) / [LinkedIn](https://linkedin.com/in/pradeepkmaran)
