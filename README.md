@@ -1,59 +1,37 @@
 # PRADEEP KM
 
-Software Engineer focused on Systems, Backend Architecture, and Distributed Intelligence. 
+Developer focused on the engineering of high-performance systems, backend architectures, and distributed intelligence. Currently optimizing storage engines and exploring the intersections of systems programming and AI.
 
 ---
 
-### CORE SPECIFICATIONS
+### TECH STACK
 
-- Architecture: Systems Programming, Database Internals, Distributed Storage
-- Logic: C++, JavaScript, Python, Go
-- Environment: Linux, Docker, gRPC, Node.js
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
----
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-### PERSISTENCE & DATABASES
-
-**KVICK-DB / KVICK-DB-LSM**
-Implementation of high-performance Log-Structured Merge (LSM) trees for massive key-value datasets. Focus on disk I/O optimization and write-ahead logging.
-
-**MYSILLYQL**
-An experimental SQL query engine built to explore parsing, optimization, and execution plan generation from first principles.
-
-**GITHUB-AS-A-DB**
-A framework for treating GitHub repositories as a version-controlled, highly available object store for application data.
-
----
-
-### INTELLIGENCE & CLASSIFICATION
-
-- **Research Paper Classifier**: Automated categorization of academic literature using NLP.
-- **ImageCLEF2024**: Visual recognition and medical image analysis.
-- **Fake News Detector**: Deep learning approach to misinformation detection using OneHot and GloVe embeddings.
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### TOOLING & INFRASTRUCTURE
+### CONNECT
 
-- **OHNO-CLI**: Natural language processor for Linux terminal operations.
-- **Visual Voice**: Real-time translation and audio processing for YouTube content.
-- **CF-Editor**: Specialized code editor extension for competitive programming.
-- **Video Conference**: Low-latency RTC platform for high-bandwidth communication.
-
----
-
-### SYSTEM STATISTICS
-
-![Stats](https://github-readme-stats.vercel.app/api?username=pradeepkmaran&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333&icon_color=000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkmaran&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=pradeepkmaran&theme=flat&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepkmaran) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepkmaran@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradeepkmaran)
 
 ---
 
-### NOTES
-
-Based in Chennai. Active across 50+ repositories. Focused on building high-performance systems from the ground up.
-
-[GitHub](https://github.com/pradeepkmaran) / [LinkedIn](https://linkedin.com/in/pradeepkmaran)
+Always Curious, Always Building.
